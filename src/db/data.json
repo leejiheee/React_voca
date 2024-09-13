@@ -1,0 +1,75 @@
+{
+  "days": [
+    {
+      "id": "1",
+      "day": 1
+    },
+    {
+      "id": "2",
+      "day": 2
+    },
+    {
+      "id": "3",
+      "day": 3
+    },
+    {
+      "id": "6dea",
+      "day": 4
+    },
+    {
+      "id": "97f1",
+      "day": 5
+    }
+  ],
+  "words": [
+    {
+      "id": "1",
+      "day": 1,
+      "eng": "book",
+      "kor": "책",
+      "isDone": false
+    },
+    {
+      "id": "3",
+      "day": 2,
+      "eng": "car",
+      "kor": "자동차",
+      "isDone": true
+    },
+    {
+      "id": "4",
+      "day": 2,
+      "eng": "pen",
+      "kor": "펜",
+      "isDone": false
+    },
+    {
+      "id": "5",
+      "day": 3,
+      "eng": "school",
+      "kor": "학교",
+      "isDone": false
+    },
+    {
+      "id": "321f",
+      "day": "3",
+      "eng": "window",
+      "kor": "창문",
+      "isDone": false
+    },
+    {
+      "id": "d708",
+      "day": "2",
+      "eng": "mouse",
+      "kor": "쥐",
+      "isDone": false
+    },
+    {
+      "id": "156f",
+      "day": "4",
+      "eng": "monkey",
+      "kor": "원숭이",
+      "isDone": false
+    }
+  ]
+}
